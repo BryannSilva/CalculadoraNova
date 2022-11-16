@@ -1,11 +1,11 @@
-C:\Users\marcello.basilva\source\repos\CalculadoraNova\CalculadoraNova\bin\Debug\CalculadoraNova.exe.config
-C:\Users\marcello.basilva\source\repos\CalculadoraNova\CalculadoraNova\bin\Debug\CalculadoraNova.exe
-C:\Users\marcello.basilva\source\repos\CalculadoraNova\CalculadoraNova\bin\Debug\CalculadoraNova.pdb
-C:\Users\marcello.basilva\source\repos\CalculadoraNova\CalculadoraNova\obj\Debug\CalculadoraNova.csproj.AssemblyReference.cache
 C:\Users\marcello.basilva\source\repos\CalculadoraNova\CalculadoraNova\obj\Debug\CalculadoraNova.csproj.SuggestedBindingRedirects.cache
 C:\Users\marcello.basilva\source\repos\CalculadoraNova\CalculadoraNova\obj\Debug\CalculadoraNova.Form1.resources
 C:\Users\marcello.basilva\source\repos\CalculadoraNova\CalculadoraNova\obj\Debug\CalculadoraNova.Properties.Resources.resources
 C:\Users\marcello.basilva\source\repos\CalculadoraNova\CalculadoraNova\obj\Debug\CalculadoraNova.csproj.GenerateResource.cache
 C:\Users\marcello.basilva\source\repos\CalculadoraNova\CalculadoraNova\obj\Debug\CalculadoraNova.csproj.CoreCompileInputs.cache
+C:\Users\marcello.basilva\source\repos\CalculadoraNova\CalculadoraNova\bin\Debug\CalculadoraNova.exe.config
+C:\Users\marcello.basilva\source\repos\CalculadoraNova\CalculadoraNova\bin\Debug\CalculadoraNova.exe
+C:\Users\marcello.basilva\source\repos\CalculadoraNova\CalculadoraNova\bin\Debug\CalculadoraNova.pdb
 C:\Users\marcello.basilva\source\repos\CalculadoraNova\CalculadoraNova\obj\Debug\CalculadoraNova.exe
 C:\Users\marcello.basilva\source\repos\CalculadoraNova\CalculadoraNova\obj\Debug\CalculadoraNova.pdb
+C:\Users\marcello.basilva\source\repos\CalculadoraNova\CalculadoraNova\obj\Debug\CalculadoraNova.csproj.AssemblyReference.cache
