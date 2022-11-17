@@ -68,7 +68,9 @@ namespace CalculadoraNova
             {
                 DataTable dt = new DataTable();
                 var resultado = dt.Compute(txbTela.Text, "");
-                txbTela.Text = resultado.ToString();
+                txbTela.Text = resultado.ToString().Replace(",",".");
+
+                
             }
             catch
             {
